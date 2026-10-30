@@ -177,3 +177,11 @@ Add the dashboard screenshots here:
 ## Conclusion
 
 This project demonstrates a complete analytics workflow from raw clickstream data to SQL analysis, Python EDA, funnel analysis, and interactive dashboarding. It is suitable for Product Analyst, Data Analyst, BI Analyst, and SQL-focused interview roles.
+
+## Note
+
+For repository size and performance reasons, the large raw CSV file and the Power BI `.pbix` file are not included in this GitHub repository. The project code, SQL queries, Python scripts, funnel summary, and dashboard screenshots are included. You can reproduce the analysis using the provided scripts and workflow described in this README.
+
+## Data Source
+
+The dataset used for this project was downloaded from Kaggle: **eCommerce Behavior Data from Multi Category Store**.
